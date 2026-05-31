@@ -1,0 +1,31 @@
+[
+    {
+        "id": "112aa568aa9abe04",
+        "type": "http request",
+        "z": "df1e7dedfba8e46f",
+        "name": "",
+        "method": "POST",
+        "ret": "obj",
+        "paytoqs": "ignore",
+        "url": "https://script.google.com/macros/s/AKfycbwzs3wn85o1uxDBRKvkR51nXiZd3WXf36cONEyxqEJHfdAOn4rjXTYVylJQIe7Y6HR2hA/exec",
+        "tls": "",
+        "persist": false,
+        "proxy": "",
+        "insecureHTTPParser": false,
+        "authType": "",
+        "senderr": false,
+        "headers": [
+            {
+                "keyType": "other",
+                "keyValue": "Content-Type",
+                "valueType": "other",
+                "valueValue": "application/json"
+            }
+        ],
+        "x": 660,
+        "y": 900,
+        "wires": [
+            []
+        ]
+    }
+]

@@ -1,0 +1,7 @@
+[wokwi]
+version = 1
+firmware = "firmware/micropython.bin"
+
+[[net.forward]]
+from = 8180
+to = 80
